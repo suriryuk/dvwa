@@ -124,4 +124,4 @@ if true in res.text:
             print('\033[36m' + f'[+] {i + 1} table {k + 1} column name =>', column, '\033[0m')
     print(column_name)
 else:
-    print('[-] This page is not blind sql injection')
+    print('[-] Blind SQL Injection is not possible for this page.')
