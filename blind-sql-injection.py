@@ -4,7 +4,7 @@ url = 'http://192.168.100.200/dvwa/vulnerabilities/sqli_blind/'
 true = "User ID exists in the database."
 
 cookie = {
-        'PHPSESSID': 'a9494aaf9f23d543fcdd72e7376746c0',
+        'PHPSESSID': 'your php session ID',
         'security': 'low'
         }
 
